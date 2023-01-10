@@ -55,7 +55,11 @@ You can deploy this bot anywhere.
 <i>**[Watch Deploying Tutorial...](https://youtu.be/1G1XwEOnxxo)**</i>
 
 <details><summary>Deploy To Heroku</summary>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MR-BOTZt/Tony-stark)
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/MR-BOTZt/Tony-stark">
+<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</br>
 
 <details><summary>Deploy To VPS</summary>
 <p>
